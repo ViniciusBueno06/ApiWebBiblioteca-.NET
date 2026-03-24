@@ -2,6 +2,8 @@
 bin/
 obj/
 
+.gitignore
+
 # Visual Studio
 .vs/
 *.user
@@ -15,7 +17,7 @@ appsettings.Development.json
 
 # Env files
 .env
-.env.*
+
 
 # Editors
 .vscode/
